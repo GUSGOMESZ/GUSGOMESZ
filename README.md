@@ -1,5 +1,5 @@
 # Hi, I'm Gustavo !
-🧑‍💻 Computer Engineer sharing journey and learnings in tech<br>🧑‍🎓 Studying Computer Engineering at Sorocaba Engineering College (FACENS)<br>💭 Currently learning Web Development<br>🎮 Game development enthusiast
+🧑‍💻 Computer Engineer sharing journey and learnings in tech<br> 🇧🇷 From Brazil<br>🧑‍🎓 Studying Computer Engineering at Sorocaba Engineering College (FACENS)<br>💭 Currently learning Web Development<br>🎮 Game development enthusiast
 
 
 ## 🌐 Socials:
