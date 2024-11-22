@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧑‍💻 Computer Engineer sharing journey and learnings in tech<br>🧑‍🎓 Studying Computer Engineering at Sorocaba Engineering College (FACENS)<br>💭 Currently learning Web Development<br>🎮 Game development enthusiast</p>
+<p align="left">🧑‍💻 Computer Engineer sharing journey and learnings in tech<br>🧑‍🎓 Studying Computer Engineering at Sorocaba Engineering College (FACENS)<br>💭 Currently learning TypeScript<br>🎮 Game development enthusiast</p>
 
 ###
 
