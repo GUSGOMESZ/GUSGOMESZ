@@ -98,10 +98,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=GUSGOMESZ&theme=react&hide_border=false&include_all_commits=false&count_private=true" style="border: none;" />
+      ![](https://github-readme-stats.vercel.app/api?username=GUSGOMESZ&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUSGOMESZ&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact" style="border: none;" />
+      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GUSGOMESZ&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
     </td>
   </tr>
 </table>
