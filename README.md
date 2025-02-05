@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gustavo and I'm a Computer Engineering Student, from Brazil 🌎</p>
+<p align="left">My name is Gustavo and I'm a Computer Engineer from Brazil 🌎</p>
 
 ###
 
