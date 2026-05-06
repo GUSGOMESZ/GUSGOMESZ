@@ -54,7 +54,7 @@
 
 ###
 
-<div align="left">
+<div style="display: flex; justify-content: flex-start; gap: 10px;">
   <a href="https://www.linkedin.com/in/gustav0g0mes3151592/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
   </a>
